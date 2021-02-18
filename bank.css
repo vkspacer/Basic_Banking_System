@@ -1,0 +1,26 @@
+#trfirst{
+	border-bottom: 1px solid white;
+}
+select{
+	width:100%;
+	color:white;
+	background:black;
+	margin-left:auto;
+	margin-right: auto;
+	height: 7vh;
+	font-size: 1rem;
+}
+.container-md{
+	color:black;
+}
+#idval,#idvalbal{
+	display:none;
+}
+.btn{
+	margin-left: 45%;
+	margin-top: 5%;
+}
+#h3{
+	letter-spacing: 5px;
+	color:red;
+}
